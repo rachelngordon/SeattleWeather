@@ -1,0 +1,20 @@
+Annual Statistics:
+# of days it rains: 150
+Avg (stdev) rainfall: 3.2 +/- 3.3 inches
+Avg min & max temperature on rainy days: 81.4 F - 140.8 F
+Avg min & max temperature on non-rainy days: 90.2 F - 190.3 F
+
+Monthly Statistics:
+Month,# days it rains,# inches of rain,Min temp (F),Max temp (F)
+January,13,37.0,-5,144
+February,19,61.1,-60,144
+March,20,94.5,11,189
+April,13,41.8,44,278
+May,8,31.5,72,294
+June,9,7.4,89,261
+July,2,7.7,117,344
+August,7,18.1,111,356
+September,9,22.3,100,322
+October,19,67.5,67,256
+November,16,48.5,-49,167
+December,15,48.0,-32,189
