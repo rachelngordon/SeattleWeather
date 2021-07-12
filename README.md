@@ -1,5 +1,5 @@
 # SeattleWeatherAnalysis
-Course project analyzing precipitation and temperatures in Seattle from 2014
+Analyzing precipitation and temperatures in Seattle from 2014
 
 Takes in a csv including weather data from Seattle Tacoma International Airport for each day in 2014. 
 
